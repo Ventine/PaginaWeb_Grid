@@ -10,4 +10,4 @@
 
 ![image](https://user-images.githubusercontent.com/19364556/194416267-a5cf0026-473c-4df9-805e-cf69a3f22e1c.png)
 
-Guia: https://www.youtube.com/watch?v=htzLVAcZ0B4&list=PLyq-JRmrlcZhzti8HRQRq_4mP4lC1wiGg&index=2&t=3063s&ab_channel=VidaMRR-Programacionweb 
+Guia: https://www.youtube.com/watch?v=htzLVAcZ0B4&t=3064s&ab_channel=VidaMRR-Programacionweb
